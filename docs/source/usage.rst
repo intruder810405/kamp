@@ -1,34 +1,49 @@
-Usage
+카지노사이트 국내 최고의 자본과 보안을 자랑하는 카지노검증사이트
 =====
 
-.. _installation:
 
-Installation
-------------
+다음으로 ‘외화획득 목적의 외국인 전용 카지노산업정책’의 정책패러다임하에서 
+정책수단의 수위조정으로 허가 대상 시설 기준의 조정은 기존에 유지되어오던 
 
-To use Lumache, first install it using pip:
+카지노의 허용 기준 증 허가 대상 시설로서 외국인 관광객이 이용하는 관광 호텔에 대해서만 
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
+허가를 해주었던 기존 기준의 수위를 조정하여 컨벤션 센터에 대해서도 
+허가 기준을 확장하였다.
+이는 2000년 아시아 유럽 정상회의(ASEM), 2002년 월드컵대회 준비 작업에도 
 
-Creating recipes
-----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+부족한 호텔 건설을 위해 특1급 호텔로만 제한되었던 카지노를 컨벤션센터로 
 
-.. autofunction:: lumache.get_random_ingredients
+확장한 정책에서 확인된다. 
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+1998년 1월 30일 대통령직 인수위는 외화획득을 위해 카지노업소의 설치제한을 
+완화하고 대도시 컨벤션센터 내에 카지노를 부대시설로 설치하는 것을 
+허용 할 것을 방침으로 정하고 관련법 개정을 추진하였다. 
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
+관련하여 국회 문화관광위 는 1998년 12월 14일 전체회의를 열고 특1급 호텔을 
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+기준으로 설치가 가능했던카지노를 특2급 호텔과 컨벤션센터와 같은 
+국제회의시설에도 설치할 수 있도록 허용범위를 확장하는 내용이 포함된 
+⌜관광진흥법 개정안⌟을 심의 의결하였다. 
+
+이후 정부는 외국인 관광객의 유치를 확대하고 관광산업을 육성하여 관광수지를 
+개선하기 위해 카지노 사업의 경쟁력을 높이는 것을 목적으로 서울과 부산에 
+내국인 출입이 제한된 외국인 전용 카지노를 추가로 허가하기로 하였다. 
+
+문화관광부장관은 2004년 9월 3일 발표에서 2004년 11월 말까지 
+카지노 허가 신청 접수 후 심사를 거쳐 서울 2개, 부산 1개의 허가대상을 확정해 
+2005년 하반기 중 개장하도록 하였다. 
+
+신규허가 과정의 투명성을 확보하 고 공익성을 추구하기 위해 허가대상은 한국관광공사와 
+
+그 자회사로 한정하였으며 2004년 11월 17일 서울에 한무컨벤션, 밀레니엄 힐튼호텔 등 
+
+2개의 카지노가 선정되고, 부산 롯데호텔이 선정되었다. 
+신규 선정된 카지노가 개장하면서 외 국인 전용 카지노는 서울 3개, 부산 2개, 인천 1개, 
+강원 1개, 경북 1개, 제주 8개 등으로 기존 13곳에서 모두 16곳으로 증가하였다.
+
+ `카지노사이트 <https://projectfluent.io/>`_
+ `바카라사이트 <https://projectfluent.io/>`_
 
