@@ -1,13 +1,41 @@
-Welcome to Lumache's documentation!
+카지노 산업의 기존 패러다임 정책 수단의 수위 조정
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+첫 번째로 정책 수단의 수위 조정은 기존에 유지되어오던 카지노의 허용 기준, 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+즉 지역별 허가 개수의 기준으로 ‘1도 1카지노 정책’과 허가 대상 시설 기준으로 
+외국인 관광객이 이용하는 관광호텔 대상 카지노 허용 정책 등 
+허가 개수와 허가 시설의 두 가지 기준에 대한 수위 조정이다. 
+
+‘외화획득 목적의 외국인 전용 카지노산업정책’의 정책패러다임 하에서 
+정책 수단의 수위조정으로 허가 개수의 기준 조정은 외국인 전용 카지노의 허가 개수를 
+
+1도 1카지노를 기준으로 전국 관광지별로 1개의 카지노 허가를 유지해왔으나. 
+
+‘제주도 종합개발 기본방향’ 수립 후 제주도 지역경제 개발의 수단으로 
+
+다수의 카지노를 허용하는 정책으로 수정되는 과정에서 확인된다. 
+제주도 종합개발 기본방향 수립과 관련하여 제주도개발에 대한 특별법의 제정과 
+
+
+관련한 문제가 처음 거론된 것은 1989년 한국개발연구원(KDI)이 작성한
+⌜제주도 종합개발계획의 재검토⌟ 보고서였다. 
+
+1985년부터 시작된 ‘1차 제주도 개발계획’은 1991년을 마지막 해로 생산기반의 
+
+확충과 산업구조의 고도화를 통한 소득원의 다변화와 지역주민의 선진생활 구현, 
+지역특성의 유지와 효율적 개 발로 관광수요에 대처하고 
+
+이를 통해 경제 기반을 강화하고 외화수입을 증대하는 것이 목표였다. 
+
+
+
+출처
+===================================
+
+ `카지노사이트 <https://projectfluent.io/>`_
+ `바카라사이트 <https://projectfluent.io/>`_
+
 
 .. note::
 
